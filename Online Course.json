@@ -882,4 +882,10 @@
       "platform" : "w3schools",
       "courseLink" : "https://www.w3schools.com/sql/sql_intro.asp"
     }
+	 {
+      "id" : "256",
+      "courseName" : "IELTS Band 7+ Complete Prep Course",
+      "platform" : "Udemy",
+      "courseLink" : "https://www.udemy.com/course/ielts-band-7-preparation-course/"
+    },
  ]
